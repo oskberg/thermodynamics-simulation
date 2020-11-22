@@ -33,11 +33,11 @@ def pa_plot(
     repeats = 5,
     frames = 2_000,
 ):
-    """Plots pressure against temperature
+    """Plots pressure against area
 
-    Creates simulations with different temperature but keeps 
+    Creates simulations with different area but keeps 
     everything else constant. It then records the pressure at 
-    each temperature and plots it in a graph. For it to be able 
+    each area and plots it in a graph. For it to be able 
     to run multiple times with different ball radii, plt.plot() 
     mmust be called AFTER the function. Error calulations are 
     done by running the simulation ``repeats`` number of times.
