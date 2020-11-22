@@ -1,6 +1,6 @@
 @ Oskar Hoegberg 13/02/2020
 
-## Instructions
+## Usage
 All files should be set to generate demo plots and contain instructions for creating custom initial conditions.
 
 ``pa_plots.py`` and ``pt_plots.py`` will generate the more complicared plots and can take very long to run for advanced setups. pa stands for pressure-area and investigates the relation between the two. pt means pressure-temperature and is dedicated to this relationship.
