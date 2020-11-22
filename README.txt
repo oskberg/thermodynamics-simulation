@@ -22,6 +22,3 @@ Remarks:
 	The parameters ``separations`` in the run method
 	slows down the code a fair bit so do not have it 
 	set to true unless this data is specifically wanted.
-
-	The graphs produced will probably differ slightly in
-	colour compared to the ones in the lab report
