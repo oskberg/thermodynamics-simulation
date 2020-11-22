@@ -1,4 +1,6 @@
 @ Oskar Hoegberg 13/02/2020
+# Summary
+A simulation of a two dimensional thermodynamic simulation consisting of elastically colliding rigid bodies. The point of the simulation is to showcase thermodynamic state variables such as pressure and temperature and the relationship between them. 
 
 ## Usage
 All files should be set to generate demo plots and contain instructions for creating custom initial conditions.
